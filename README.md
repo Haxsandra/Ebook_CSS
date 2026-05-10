@@ -4,11 +4,11 @@ PROJETO DE EBOOK CRIADO POR I.A.
 Projeto com o objetivo de gerar um ebook utilizando as facilidades das ferramentas de IA. 
 
 Tecnologias utilizadas no projeto
-- ChatGPT
+- Claude
 - Copilot       
 - Power Point
 
-Prompts feitos no ChatGPT：
+Prompts feitos com a ajuda do Claude：
 
 Título:	Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos
 Conteúdo: Faça um texto para ebook, como foco em CSS,  listando os principais temas de animações CSS com exemplos em códigos.
